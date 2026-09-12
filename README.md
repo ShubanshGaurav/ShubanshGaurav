@@ -79,5 +79,5 @@ A collection of SQL-based business problems covering data cleaning, aggregation,
 
 ## 📫 Connect With Me
 
-- LinkedIn: [My LinkedIn](YOUR_LINKEDIN_URL)
+- LinkedIn: [My LinkedIn](https://www.linkedin.com/in/shubansh-gaurav-178832284/)
 - Email: shubhanshgaurav990@gmail.com
